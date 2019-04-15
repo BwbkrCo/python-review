@@ -1,0 +1,28 @@
+Python 
+
+Python vs Other Languages 
+C++ -- "Write Everything from Scratch" Mostly Desktop Apps
+Java -- Desktop, Web, Mobile Apps(with Android)
+Swift -- Mobile Apps for iOS, Desktop Apps for macOS
+JavaScript - Web Apps
+
+Python -- Data Science, Desktop Apps/ Scripts, Web Apps
+
+Understanding the Python Versions
+Version 2.7
+-- Legacy
+-- Released in 2010, supproted till 2020
+-- Slightly different syntax
+-- A few libraries only work with Python 2.7
+
+Version 3.x
+-- The Future 
+-- New versions (e.g. 3.7 in 2018) are constantly released 
+-- Added many language improvements and additions 
+-- Pretty much all important libraries have beend ported to 3.x
+
+Getting the most of out this course 
+ - Watch the Videos => At your speed! pause & rewind!
+ - Code along & Do the exercises
+ - Use the course recources => attached code & links 
+
