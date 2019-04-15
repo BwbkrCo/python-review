@@ -2,3 +2,19 @@ Brian
 
 What's a blockchain?
 A distributed data storage consisting of containers (blocks) which are connected. 
+
+
+What's a cryptocurrency?
+If the data you store in a block is a list of transactions, the coins transferred in the 
+transactions form your cryptocurrency. 
+
+Where are the Coins?
+Coins are transferred with Transactions.
+Changing them into other currencies is no possible inside the blockchain.
+- The value ofa coin is determined by the value the participants of the blockchain network assign to it. 
+(i.e. what you're willing to pay in "real" currencies). 
+Coins are created via Mining (as a reward for the effort). 
+
+Blockcahin Big Picture
+A wallet is a Node
+Can send X coins to other wallets via transactions. 
