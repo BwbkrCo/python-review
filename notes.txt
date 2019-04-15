@@ -26,3 +26,5 @@ Getting the most of out this course
  - Code along & Do the exercises
  - Use the course recources => attached code & links 
 
+The REPL
+- Read, Evaluate, Print, Loop 
