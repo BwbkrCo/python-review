@@ -1,0 +1,18 @@
+Loops 
+
+for Loop
+
+for element in list:
+    print(element)
+
+A for Loop allows you to interate through the elements of an iterable (e.g. a List)
+Changing the iterable as part of the Loop is NOT recommended
+
+white Loop
+
+while True:
+    print('Ifinity!')
+
+A while Loop allows you to repeat code as long as its condition is True.
+Make sure to provide an exit condition otherwise CTRL + Z has to be used.
+
