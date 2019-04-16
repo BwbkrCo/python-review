@@ -16,3 +16,5 @@ while True:
 A while Loop allows you to repeat code as long as its condition is True.
 Make sure to provide an exit condition otherwise CTRL + Z has to be used.
 
+Use "break" to exit the Loop before it's finished
+Use "continue" to skip an iteration 
