@@ -103,9 +103,11 @@ add_value(tx_amount)
 tx_amount = get_user_input()
 add_value(last_transaction=get_last_blockchain_value(), transaction_amount=tx_amount)
 
+# Get the third transaction input and add the value to the blockchain
 tx_amount = get_user_input()
 add_value(tx_amount,get_last_blockchain_value())
 
+#Output the blockchain list to the console. 
 print(blockchain)
 
 ####################################################################################################
@@ -124,3 +126,5 @@ print(blockchain)
 #     age = 30
 #     print('Hi ' + name + ", I am " + age)
 # greet()
+
+
