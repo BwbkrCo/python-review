@@ -1,0 +1,34 @@
+Understanding Python Syntax
+- Indentation structures Code
+- Block statements need a :
+- Functions defined with def 
+- Follow PEB 8 Code Style 
+
+Data Types 
+- Numbers (Integers & Floats)
+- Stings
+- Booleans
+
+Operators 
+- Base Arithmetic: +, -, *, /
+- Modulus: % (15 % 10 = 5)
+- Floor Division: // (15 // 10 = 1)
+- Power: ** (2 ** 3 = 8)
+- Strings can be added and multiplied( with Integers)
+
+Lists 
+- Create Lists
+- Add items via append()
+- Access items via index (which starts at 0!)
+- Other List operations (pop(), ...)
+
+Funcitons 
+- Use Indentation and : to define Code Block
+- Can use Arguments 
+- Can return values
+- Can use Default Arguments 
+- Keyword Arguments allow you to re-order or skip Arguments
+
+Scope
+- Global: Variables defined outside of Functions
+- Local: Variables defined inside of Functions 
